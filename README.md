@@ -1,4 +1,4 @@
-# Java Servlet - Veiculos
+# Java Servlet - Veículos
 Exercío de OPP aplicado com servlet
 
 Programa que lista Veiculos 
